@@ -1,0 +1,5 @@
+Coverage.py是计算alignmnent结果的coverage的
+Consistency是计算ME和MNE的
+
+run.sh是在服务器上运行NetCoffee2的shell脚本
+go_dict.txt文件是保存GO的文件，其中GO是以python字典的数据结构保存的
